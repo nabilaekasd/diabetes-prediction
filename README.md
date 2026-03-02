@@ -35,7 +35,7 @@ Link: [Kaggle - Diabetes Prediction Dataset](https://www.kaggle.com/datasets/iam
 - Target class distribution (checking for class imbalance)
 
 ### 2. Data Preprocessing
-- Handling missing values (if any)
+- Handling missing values
 - Encoding categorical variables (One-Hot Encoding)
 - Scaling numerical features (StandardScaler)
 - Handling class imbalance using **SMOTE**
